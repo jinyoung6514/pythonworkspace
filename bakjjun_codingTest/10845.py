@@ -1,5 +1,5 @@
 import sys
-# asd
+
 N = int(sys.stdin.readline())
 
 Queue = []
